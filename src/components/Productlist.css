@@ -1,0 +1,51 @@
+.container{
+     border: 0px solid;
+       height: 300px;
+         width: 300px; 
+         
+}
+ .img1{
+     width: 280px;
+       height: 250px;
+     margin-top: 10px;
+    border-radius: 10px;
+    
+ }
+  .content{
+     display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+  }
+   #productlist{
+ display: flex;
+  flex-wrap: wrap;
+   justify-content: space-evenly;
+ 
+   }
+    .button{
+         margin-top: 10px;
+          height: 40px;
+           width: 120px;
+         border-radius: 10px;
+         
+           
+    }
+    /* .productils{
+         display: flex;
+     
+       
+    } */
+     .productdetailsimg{
+         width: 350px;
+          height: 300px;
+           float: right;
+    
+     }
+
+      /* new */
+       /* Fristpage.css */
+
+
+
+
+      
