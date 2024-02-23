@@ -1,7 +1,7 @@
 # D3VReactProject
 
 
-Welcome to the Ecommerce React Website Application! This README file provides essential information about the application, including how to launch it, its structure, and how to use it.
+Welcome to the D3VReact Website Application! This README file provides essential information about the application, including how to launch it, its structure, and how to use it.
 
 Launching the Application
 
